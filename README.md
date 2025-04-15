@@ -6,6 +6,6 @@
 
 
 [^1]: These are my top 3 that are my favorite
-       Moriarty the patriot
-       Snowdrop
-       One Piece
+       [Moriarty the patriot]
+       [Snowdrop]
+       [One Piece]
